@@ -1,4 +1,4 @@
-# Coin-Operated Vending Machine Simulation (PIC16F882)
+#Vending Machine Simulation (PIC16F882 Microcontroller)
 
 This project simulates a fully functional, coin-operated drink vending machine using a PIC16F882 microcontroller. It handles drink selection, coin insertion, dispensing, change return, and tilt-detection alarms, all through embedded C programming and real-time control logic.
 
